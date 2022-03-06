@@ -51,7 +51,7 @@ body{
       padding: 10px ;
     }
     
-    #name-label, #email-label,#number-label , #dropdown-label , #select-label,#feed-label,#search{
+    #name-label, #email-label,#number-label , #dropdown-label , #select-label,#feed-label,#search,#label{
         font-family: 'Bowlby One SC', cursive;
         float: left;
         font-size: 25px;
